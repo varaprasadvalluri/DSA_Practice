@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 import java.util.stream.IntStream;
 
-public class BinerSearch {
+public class BinarySearch {
 
     //Alog :
 
